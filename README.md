@@ -1,7 +1,7 @@
 # HCMUS-CS427-Game-AngryBird
 
-# Requirement:
+## Requirement:
 	Unity 2019.2.8f1 Personal
 
-# How to run:
+## How to run:
 	
