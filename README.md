@@ -1,2 +1,7 @@
 # HCMUS-CS427-Game-AngryBird
- angrybird implementation
+
+# Requirement:
+	Unity 2019.2.8f1 Personal
+
+# How to run:
+	
