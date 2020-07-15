@@ -5,8 +5,8 @@ using UnityEngine;
 public class GreenBird : MonoBehaviour
 {
     private Vector3 _initialPosition;
-    private float _timeSittingAround = 0;
-    bool birdWasLaunched = false;
+    // private float _timeSittingAround = 0;
+    // bool birdWasLaunched = false;
 
     [SerializeField] private float _launchPower = 150;
     // --------------------------------------------------------------
@@ -20,7 +20,7 @@ public class GreenBird : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
-//        GetComponent<LineRenderer>().SetPosition(0, _initialPosition);
+        // GetComponent<LineRenderer>().SetPosition(0, _initialPosition);
         GetComponent<LineRenderer>().SetPosition(0, transform.position);
     }
     // --------------------------------------------------------------
